@@ -11,5 +11,5 @@ This is a sample login validation function tested using Jest.
  
  ## How to Run
 
-npm install
-npm test
+-npm install
+-npm test
